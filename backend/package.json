@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aditya-Singh-rauthan/Coding101_backend.git"
+    "url": "git+https://github.com/Aditya-Singh-rauthan/Coding101.git"
   },
   "author": "Aditya Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aditya-Singh-rauthan/Coding101_backend/issues"
+    "url": "https://github.com/Aditya-Singh-rauthan/Coding101/issues"
   },
-  "homepage": "https://github.com/Aditya-Singh-rauthan/Coding101_backend#readme"
+  "homepage": "https://github.com/Aditya-Singh-rauthan/Coding101#readme"
 }
